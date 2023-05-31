@@ -3,9 +3,8 @@
 
 $ npm install
 $ npm start
-
-*accept Get Query request  accepts  seats and passengers
-*For example http://localhost:8080/api/airplane/setting?seats= [[3, 2], [4, 3], [2, 3], [3, 4]]&passengers=30
+* accept Get Query request  accepts  seats and passengers
+* For example http://localhost:8080/api/airplane/setting?seats= [[3, 2], [4, 3], [2, 3], [3, 4]]&passengers=30
 
 app that helps seat audiences in a flight based on the following input and rules.
 
